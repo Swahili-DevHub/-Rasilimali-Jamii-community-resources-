@@ -1,113 +1,90 @@
-Hilo ni lengo zuri sana! Kuanzisha na kukuza jamii ya Waswahili waandishi wa kanuni ni njia bora ya kuimarisha ujuzi na kubadilishana maarifa. Hapa chini ni mpango wa hatua kwa hatua wa kuunganisha wataalamu, wanaofanya na wanaotamani kujifunza coding katika Kiswahili:
+# Swahili DevHub
 
-1. Tambua Maono na Madhumuni ya Jamii
-Maono (“Vision”): Je, jamii yako ina lengo gani? 
+**Jukwaa la Waswahili Waanzilishi na Waendelezaji**
 
-Mfano: “Kuunda mazingira salama ya kujifunza na kushirikiana kwa Waswahili katika maendeleo ya programu.”
+Swahili DevHub ni jamii ya mtandaoni inayolenga kuunganisha na kuwezesha Waswahili wanaopenda kujifunza na kuendeleza miradi ya programu. Tunatoa nafasi ya kujifunza, kushirikiana, na kukua pamoja kwa kutumia Kiswahili na Kiingereza kwa manufaa ya kila mshiriki.
 
-Madhumuni (“Mission”): Utafikia maono hayo kwa njia gani?
+---
 
-Kutoa mafunzo, warsha, michuano (hackathons), mentors, na rasilimali zote kwa Kiswahili.
+## Yaliyomo (Table of Contents)
 
-2. Chagua Chombo/Mtandao wa Ushirikiano
-Discord
+1. [Maelezo (Description)](#maelezo-description)
+2. [Vitu Vinavyohitajika (Prerequisites)](#vitu-vinavyohitajika-prerequisites)
+3. [Jinsi ya Kujiunga (Getting Started)](#jinsi-ya-kujiunga-getting-started)
+4. [Matumizi (Usage)](#matumizi-usage)
+5. [Michango (Contributing)](#michango-contributing)
+6. [Kanuni za Tabia (Code of Conduct)](#kanuni-za-tabia-code-of-conduct)
+7. [Leseni (License)](#leseni-license)
+8. [Mawasiliano (Contact)](#mawasiliano-contact)
 
-✅ Chanjo ya mazungumzo hai (“voice + text”), madarasa ya kawaida kama “#general”, “#beginners”, “#web-dev”
+---
 
-✅ “Bots” za kufuatilia shughuli, polls, maombi ya mentorship
+## 1. Maelezo (Description)
 
-Slack
+Swahili DevHub ni jukwaa la jamii linalowezesha Waswahili waanfuseli na waendelezaji kushirikiana katika miradi ya programu, kushiriki rasilimali, na kudumisha mazingira rafiki ya kujifunza. Tunaendesha changamoto za coding, warsha, na hackathons kwa Kiswahili.
 
-✅ Mazingira rasmi, urahisi wa kuunganisha na GitHub/Google Drive
+## 2. Vitu Vinavyohitajika (Prerequisites)
 
-❎ Vikwazo vya ujumbe kwenye akaunti ya bure
+* Kadi ya malipo ya kimataifa (kwa wale wanaojiunga na GitHub ifuatapo)
+* Akaunti ya GitHub
+* Kupakua [Discord](https://discord.com)
+* Ujuzi wa msingi wa Git na Markdown (kikao chetu cha mafunzo kinapatikana kwa [README ya GitHub](#))
 
-Telegram / WhatsApp Group
+## 3. Jinsi ya Kujiunga (Getting Started)
 
-✅ Rahisi kupita simu, inayofaa kwa vijiji vijijini
+1. **Jiunge na Discord Server**:
 
-❎ Inaweza kuwa ngumu kuendesha mazungumzo mengi na kufuatilia archives
+   * Fungua: `https://discord.gg/swahilidevhub`
+2. **Sanifu Wasifu Wako kwenye GitHub**:
 
-GitHub Organization + Discussions
+   * Jisajili/jiengele GitHub: `https://github.com/join`
+   * Jiunge na GitHub Organization: `https://github.com/SwahiliDevHub`
+3. **Pata Rasilimali**:
 
-✅ Inahimiza ushirikiano wa code na usimamizi wa miradi ya open source
+   * Soma [Wiki ya Jamii](https://github.com/SwahiliDevHub/wiki)
+   * Chukua changamoto za coding za wiki hii ([issues](https://github.com/SwahiliDevHub/community-challenges))
 
-✅ “Discussions” kwa maswali na mipango ya roadmap
+## 4. Matumizi (Usage)
 
-❎ Haipatikani kwa moja kwa moja kama chaneli ya mazungumzo ya papo‑kazi
+* **Q\&A (Maswali & Majibu)**: Tumia channel `#somo` ndani ya Discord.
+* **Onyesha Miradi**: Toa maoni na promozeni miradi yako kwenye `#projects`.
+* **Warsha na Matukio**: Angalia `#events` kwa ratiba ya warsha zijazo.
 
-Pendekezo: Anza na Discord + GitHub Org. Discord kwa mazungumzo ya papo‑kazi, GitHub kwa kuhifadhi code, issues, na miradi ya shutuma.
+## 5. Michango (Contributing)
 
-3. Unda Muundo na Sheria za Jamii
-Channels / Categories (kwa Discord/mwingine):
+Tuna-karibisha michango ya aina zote: code, makala (docs), tafsiri, na mentorship.
 
-#karibu—Introduce-yourself
+1. Clone repo:
 
-#general—Mazungumzo ya jumla
+   ```bash
+   git clone https://github.com/SwahiliDevHub/README-template.git
+   ```
+2. Unda `branch` kichwa cha marekebisho:
 
-#somo—Maswali ya kihudumu (Q&A)
+   ```bash
+   git checkout -b feature/jina-lako
+   ```
+3. Fanya mabadiliko, kisha tuma `pull request`.
+4. Subiri uchunguzi (review); ukubaliwe, mtarajiwa ku-merge.
 
-#projects—Onyesha miradi yako
+## 6. Kanuni za Tabia (Code of Conduct)
 
-#events—Habari za warsha na hackathons
+* Heshima na uvumilivu.
+* Hakuna lugha ya chuki, ubaguzi, au udhalilishaji.
+* Umuhimu wa ushirikiano na usaidizi.
 
-#mentors—Mahali pa kuomba msaada wa moja‑kwa‑moja
+## 7. Leseni (License)
 
-Rules of Engagement:
+Leseni chini ya [MIT License](LICENSE).
 
-Heshima na usikivu
+## 8. Mawasiliano (Contact)
 
-Kiswahili au Kiingereza rahisi (tumia tafsiri unayoweza)
+* **Discord**: `https://discord.gg/swahilidevhub`
+* **GitHub**: `https://github.com/SwahiliDevHub`
+* **Barua Pepe**: `swahilidevhub@example.com`
 
-Hakuna dhuluma au “trolling”
+## 9. Mitandao ya Kijamii (Social Media)
 
-4. Tangaza na Omba Wajumbe Kujiunga
-Mitandao ya Kijamii:
-
-Twitter/X (hashtag #WaswahiliCode)
-
-LinkedIn (anwani za kikundi)
-
-Facebook (michango ya kikundi)
-
-Majukwaa ya Habari:
-
-Blogu yako / tovuti ya SwahiliHub
-
-Jarida la barua pepe (“newsletter”)
-
-Shirika na Chuo/Vijana Tech Hubs:
-
-Waalike walimu wa vyuo vikuu, incubators, na tech hubs Arusha/Dar es Salaam
-
-5. Panga Shughuli na Rasilimali
-Mfululizo wa “Weekly Coding Challenges”
-
-Warsha za mtandaoni (Webinars) kwa Msingi wa JavaScript, Node.js, Python…
-
-Hackathons za Kiswahili (siku 1–2)
-
-Programme ya Mentorship: Washikilie wanaoanza na watendaji wenye uzoefu
-
-6. Endelea Kuzingatia Ushiriki
-Mchapishaji wa kila wiki wa “Member Spotlight” (mwanajamii anayetunga kitu kizuri)
-
-Polls za kuamua mada za warsha zinazofuata
-
-Badges / Roles ndani ya Discord (Beginner, Contributor, Mentor) kulipa heshima mchango
-
-7. Pima Maendeleo na Panua
-Metrics: Idadi ya wanachama, shughuli za kila mwezi, miradi iliyosababisha
-
-Shirikiana na miradi mikubwa ya open source: ongeza Waswahili docs / tutorials
-
-Pata Vyeti kwa washiriki waliofanikiwa kutatua changamoto
-
-Kuanza Sasa Hivi!
-Unda Discord server: discord.com/new
-
-Sanifu GitHub Organization: github.com/organizations/new
-
-Tupa jina la jamii—mfano “Swahili DevHub” au “Waswahili Code”
-
-Shiriki link kwenye mitandao yako na omba marafiki kujiunga
+* **Twitter/X**: `https://twitter.com/SwahiliDevHub`
+* **Facebook**: `https://www.facebook.com/SwahiliDevHub`
+* **LinkedIn**: `https://www.linkedin.com/company/swahilidevhub`
