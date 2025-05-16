@@ -1,0 +1,113 @@
+Hilo ni lengo zuri sana! Kuanzisha na kukuza jamii ya Waswahili waandishi wa kanuni ni njia bora ya kuimarisha ujuzi na kubadilishana maarifa. Hapa chini ni mpango wa hatua kwa hatua wa kuunganisha wataalamu, wanaofanya na wanaotamani kujifunza coding katika Kiswahili:
+
+1. Tambua Maono na Madhumuni ya Jamii
+Maono (“Vision”): Je, jamii yako ina lengo gani? 
+
+Mfano: “Kuunda mazingira salama ya kujifunza na kushirikiana kwa Waswahili katika maendeleo ya programu.”
+
+Madhumuni (“Mission”): Utafikia maono hayo kwa njia gani?
+
+Kutoa mafunzo, warsha, michuano (hackathons), mentors, na rasilimali zote kwa Kiswahili.
+
+2. Chagua Chombo/Mtandao wa Ushirikiano
+Discord
+
+✅ Chanjo ya mazungumzo hai (“voice + text”), madarasa ya kawaida kama “#general”, “#beginners”, “#web-dev”
+
+✅ “Bots” za kufuatilia shughuli, polls, maombi ya mentorship
+
+Slack
+
+✅ Mazingira rasmi, urahisi wa kuunganisha na GitHub/Google Drive
+
+❎ Vikwazo vya ujumbe kwenye akaunti ya bure
+
+Telegram / WhatsApp Group
+
+✅ Rahisi kupita simu, inayofaa kwa vijiji vijijini
+
+❎ Inaweza kuwa ngumu kuendesha mazungumzo mengi na kufuatilia archives
+
+GitHub Organization + Discussions
+
+✅ Inahimiza ushirikiano wa code na usimamizi wa miradi ya open source
+
+✅ “Discussions” kwa maswali na mipango ya roadmap
+
+❎ Haipatikani kwa moja kwa moja kama chaneli ya mazungumzo ya papo‑kazi
+
+Pendekezo: Anza na Discord + GitHub Org. Discord kwa mazungumzo ya papo‑kazi, GitHub kwa kuhifadhi code, issues, na miradi ya shutuma.
+
+3. Unda Muundo na Sheria za Jamii
+Channels / Categories (kwa Discord/mwingine):
+
+#karibu—Introduce-yourself
+
+#general—Mazungumzo ya jumla
+
+#somo—Maswali ya kihudumu (Q&A)
+
+#projects—Onyesha miradi yako
+
+#events—Habari za warsha na hackathons
+
+#mentors—Mahali pa kuomba msaada wa moja‑kwa‑moja
+
+Rules of Engagement:
+
+Heshima na usikivu
+
+Kiswahili au Kiingereza rahisi (tumia tafsiri unayoweza)
+
+Hakuna dhuluma au “trolling”
+
+4. Tangaza na Omba Wajumbe Kujiunga
+Mitandao ya Kijamii:
+
+Twitter/X (hashtag #WaswahiliCode)
+
+LinkedIn (anwani za kikundi)
+
+Facebook (michango ya kikundi)
+
+Majukwaa ya Habari:
+
+Blogu yako / tovuti ya SwahiliHub
+
+Jarida la barua pepe (“newsletter”)
+
+Shirika na Chuo/Vijana Tech Hubs:
+
+Waalike walimu wa vyuo vikuu, incubators, na tech hubs Arusha/Dar es Salaam
+
+5. Panga Shughuli na Rasilimali
+Mfululizo wa “Weekly Coding Challenges”
+
+Warsha za mtandaoni (Webinars) kwa Msingi wa JavaScript, Node.js, Python…
+
+Hackathons za Kiswahili (siku 1–2)
+
+Programme ya Mentorship: Washikilie wanaoanza na watendaji wenye uzoefu
+
+6. Endelea Kuzingatia Ushiriki
+Mchapishaji wa kila wiki wa “Member Spotlight” (mwanajamii anayetunga kitu kizuri)
+
+Polls za kuamua mada za warsha zinazofuata
+
+Badges / Roles ndani ya Discord (Beginner, Contributor, Mentor) kulipa heshima mchango
+
+7. Pima Maendeleo na Panua
+Metrics: Idadi ya wanachama, shughuli za kila mwezi, miradi iliyosababisha
+
+Shirikiana na miradi mikubwa ya open source: ongeza Waswahili docs / tutorials
+
+Pata Vyeti kwa washiriki waliofanikiwa kutatua changamoto
+
+Kuanza Sasa Hivi!
+Unda Discord server: discord.com/new
+
+Sanifu GitHub Organization: github.com/organizations/new
+
+Tupa jina la jamii—mfano “Swahili DevHub” au “Waswahili Code”
+
+Shiriki link kwenye mitandao yako na omba marafiki kujiunga
